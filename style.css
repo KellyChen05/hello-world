@@ -1,0 +1,30 @@
+body { 
+    background-color: white;
+}
+
+h1 {
+    color: white;
+}
+nav { 
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nav-link {
+    opacity: 0.7;
+}
+
+.nav-link:hover {
+    opacity: 1.0;
+    background-color: gray;
+}
+
+header {
+    background-image: url("https://static01.nyt.com/images/2018/01/14/realestate/14Brooklyn/merlin_127549397_cdaab3a5-d376-435e-9dc0-d5188c07c897-jumbo.jpg?quality=90&auto=webp");
+    text-align: center;
+    height: 600px;
+}
+
+header p {
+    font-style: italic
+}

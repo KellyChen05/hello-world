@@ -28,3 +28,18 @@ header {
 header p {
     font-style: italic
 }
+
+.services i{
+    /*Adjust the size and position of the icon*/
+    font-size: 30px;
+    padding: 25px 20px;
+    /*Color chnages the color of the icon*/
+    color:#fff;
+    background-color: #5bc0de;
+    /*resize the container the icon is in*/
+    width: 80px;
+    height: 80px;
+    /*change the roundness of the container*/
+    border-radius: 50%;
+    
+}

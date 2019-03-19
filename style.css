@@ -43,3 +43,12 @@ header p {
     border-radius: 50%;
     
 }
+
+.contacts .input-group {
+    margin-bottom: 10px;
+}
+
+.contacts i {
+    padding: 17px;
+}
+
